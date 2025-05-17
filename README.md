@@ -1,5 +1,6 @@
 <!-- GitHub Profile HTML Content -->
 
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWFzOWZoOHllcXZrNXJscW1jb25vaXJmemI5b3pqYnZqODFxMndveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QMHoU66sBXqqLqYvGO/giphy.gif" />
 <h1>💫 About Me:</h1>
 <ul>
   <li>🔭 I’m currently learning ML</li>
@@ -56,7 +57,9 @@
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
-<br><br>
+<br>
+<img style="" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJldzVtMzl3dHI5b2s1Nm1td3R0N205YWFiOGU1ZzR5eGpia28ybCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/o0vwzuFwCGAFO/giphy.gif" />
+<br>
 <h1>📊 GitHub Stats:</h1>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=ShubhanshSharma&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true" /><br/>
