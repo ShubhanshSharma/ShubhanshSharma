@@ -62,6 +62,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhanshSharma&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhanshSharma&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
+
 <h3>✍️ Random Dev Quote</h3>
 <p>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
