@@ -11,6 +11,8 @@
   <li>☕ I believe, a perfect cup of chai can be the ultimate solution for any stress.</li>
 </ul>
 
+<br>
+<br>
 <h2>🌐 Socials:</h2>
 <p>
   <a href="https://instagram.com/shubhansh364">
@@ -23,7 +25,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
-
+<br>
 <h1>💻 Tech Stack:</h1>
 <p>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
@@ -54,17 +56,17 @@
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
-
+<br><br>
 <h1>📊 GitHub Stats:</h1>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=ShubhanshSharma&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true" /><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=ShubhanshSharma&theme=codeSTACKr&hide_border=true" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhanshSharma&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
-
+<br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhanshSharma&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
-
+<br>
 <h3>✍️ Random Dev Quote</h3>
 <p>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
